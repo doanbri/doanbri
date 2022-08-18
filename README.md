@@ -11,7 +11,7 @@
 - <b>Previous Work
   - [All CS2 Semester 2 Projects](https://docs.google.com/document/d/19AvjCt93PtIQp-TeVCa-Lv5c7DxyVAEB_es2t3IUPLs/edit?usp=sharing)
   - [All CS2 Semester 1 Projects](https://docs.google.com/document/d/1OiNRrEnwzvh7h_oCBY66tXItCJ0P_6UbZxqxUoWUdzM/edit?usp=sharing)
-<h2>👨‍💻 Criterions:</h2>
+<h2>✨ Criterions:</h2>
 
 - <b>Semester 2</b>
   - [Criterion A](https://docs.google.com/document/d/1tZuw_p4JPcThImpFid6YCtx1M99oC1h5flXOxTgpCrA/edit?usp=sharing)
