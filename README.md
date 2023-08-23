@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! 11th Grade CP Student
+<h1>Hi, I'm Brian! 12th Grade CP Student
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
