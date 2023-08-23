@@ -1,4 +1,17 @@
-<h1>Hi, I'm Brian! 12th Grade CP Student
+
+### Hi there 👋, my name is Brian
+#### I am 12th grade IB CP student 
+I am currently studying at Westchester Academy for International Studies. 
+
+Skills: Python / C / Javascript
+
+- 🔭 I’m currently working on graduating 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/doanbri)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=doanbri&show_icons=true)  
+
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
