@@ -9,9 +9,6 @@ Skills: Python / C / Javascript
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=doanbri&show_icons=true)  
-
-
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b>CS2 Final Review</b>
