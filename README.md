@@ -6,6 +6,7 @@ I am currently studying at Westchester Academy for International Studies.
 Skills: Python / C / Javascript
 
 - 🔭 I’m currently working on graduating 
+- ⚡ Fun fact: I can crack a egg with one hand  
 
 
 
